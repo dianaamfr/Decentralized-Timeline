@@ -3,6 +3,8 @@ A peer-to-peer decentralized timeline using [Python's implementation of the Kade
 
 A detailed description of the project is available in the [docs directory](docs/presentation.pdf).
 
+*This project was developed during the course of Large Scale Distributed Systems (SDLE) at FEUP.*
+
 **Group members**:
 1. [Alexandre Abreu](https://github.com/a3brx)
 2. [Diana Freitas](https://github.com/dianaamfr)
